@@ -10,7 +10,7 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1YjW3-u1R4QDh2HyOq0EFVgjxmtAgHTGM'
-export_file_name = 'export.pkl'
+export_file_name = 'hipxmet.pkl_'
 
 classes = ['black', 'grizzly', 'teddys']
 path = Path(__file__).parent
