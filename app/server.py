@@ -10,8 +10,8 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 
-export_file_url = 'https://www.dropbox.com/s/thmut4s4ebttbpx/hipxmet.pkl?dl=1'
-export_file_name = 'hipxmet.pkl'
+export_file_url = 'https://www.dropbox.com/s/h4cb6gkbs1v48ya/countryxindie.pkl?dl=0'
+export_file_name = 'countryxindie.pkl'
 
 classes = ['black', 'grizzly', 'teddys']
 path = Path(__file__).parent
